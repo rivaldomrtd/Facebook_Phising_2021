@@ -3,5 +3,5 @@ Script phising facebook dengan tampilan terbaru 2021. script ini hanya untuk pen
 
 # Usage
 
--> Konfigurasi alamat email di *EMAIL_NOTIF.PHP*
+-> Konfigurasi alamat email di *EMAIL_NOTIF.PHP* <br>
 -> data akan tersimpan di *HASIL.TXT* dan notifikasi di email anda.
